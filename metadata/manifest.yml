@@ -6,6 +6,7 @@ Description: Web based MongoDB administration tool. Requires the MongoDB cartrid
 Version: '1.1.5'
 License: GPLv2
 Vendor: rockmongo
+Source-Url: https://github.com/rpete/openshift-cartridge-rockmongo/archive/master.zip
 Cartridge-Version: 0.0.15
 Cartridge-Vendor: rockmongo
 Website: http://www.rockmongo.com
